@@ -17,10 +17,17 @@ C(S) and G(S) are in series, 300/(S^2+10S+20)
 Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 ## Program: 
 ### Open loop System
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-23 at 7 08 18 PM" src="https://github.com/user-attachments/assets/d63930d1-dd15-4a12-9c3e-6c5de7f5a9b0" />
 
 ### Closed loop System
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-23 at 7 10 05 PM" src="https://github.com/user-attachments/assets/39c22224-3d18-409e-b9a0-7706e33abac6" />
 
 ## Simulink:
+### Open loop System
+<img width="1600" height="848" alt="WhatsApp Image 2026-07-23 at 7 09 44 PM" src="https://github.com/user-attachments/assets/47429896-8bf6-4e9a-a06e-4ee31f38f288" />
+
+### Closed loop System
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-23 at 7 05 57 PM" src="https://github.com/user-attachments/assets/66a46c2c-6ade-406b-b3a3-276dfe677235" />
 
 ## Procedure:
 	Open MATLAB software
@@ -30,15 +37,21 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 	Analyse the result.
 ## Output:
 ### Open Loop System:
+<img width="1600" height="826" alt="WhatsApp Image 2026-07-23 at 7 06 47 PM" src="https://github.com/user-attachments/assets/acd607b7-76bf-40c6-b23a-fd16db19de3c" />
+
 ### Closed Loop System:
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-23 at 7 05 00 PM" src="https://github.com/user-attachments/assets/8cd26ad8-c2f2-4873-b253-13b2da9fa42f" />
+
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
-Steady State Error = <br>
-Settling Time = 
+Steady State Error = 1-0.05=0.95
+
+Settling Time = 2.25s
 ### Closed loop System
-Steady State Error = <br>
-Settling Time = 
+Steady State Error = 0.04
+
+Settling Time = 1.2s
 
 
 
